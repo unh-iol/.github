@@ -1,19 +1,22 @@
 ![banner](github_banner.png)
 <div align="center">
   <h1><a href="https://www.iol.unh.edu/">The UNH Interoperability Labs</a></h1>
+  <p>
+    <strong>Advancing global networking and data‑communication technologies through independent testing, research, and collaboration</strong>
+  </p>
 </div>
 
 <br></br>
-The [University of New Hampshire Interoperability Labs](https://www.iol.unh.edu/) is the foremost independent testing facility for data networking companies worldwide. Our state-of-the-art laboratory and 36 years of extensive experience make it a strategic resource for industry startups and Fortune 500 companies needing collaboration, innovation, and standards development to help them shape the future of networking.
+The [University of New Hampshire Interoperability Labs](https://www.iol.unh.edu/) is the foremost independent testing facility for data networking companies worldwide. Since 1988, we’ve partnered with industry, standards bodies, and academia to improve interoperability, accelerate innovation, and prepare the next generation of engineers.
 
 ## 🚀 What We Do
-Interoperability & Conformance Testing Independent, vendor‑neutral testing across Ethernet, Blockchain, Automotive, Storage, Broadband, Time‑Sensitive Networking, and more.
+- **Interoperability & Conformance Testing**<br>Independent, vendor‑neutral testing across Ethernet, Blockchain, Automotive, Storage, Broadband, Time‑Sensitive Networking, and more.</br>
 
-Standards Development Support Active participation in IEEE, IETF, OCP, NVMe, and other standards communities.
+- **Standards Development Support**<br>Active participation in IEEE, IETF, OCP, NVMe, and other standards communities.</br>
 
-Research & Innovation Cutting‑edge work in high‑speed networking, embedded systems, automation, and test development.
+- **Research & Innovation**<br>Cutting‑edge work in high‑speed networking, embedded systems, automation, and test development.</br>
 
-Workforce Development Hands‑on engineering experience for UNH students, preparing them for careers in networking, silicon design, cybersecurity, and systems engineering.
+- **Workforce Development**<br>Hands‑on engineering experience for UNH students, preparing them for careers in networking, silicon design, cybersecurity, and systems engineering.</br>
 
 ## 🤝 Collaborate With Us
 The UNH‑IOL works with hundreds of companies worldwide — from startups to major silicon vendors. If you're interested in:
